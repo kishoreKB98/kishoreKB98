@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kishore Kumar B
 - 👀 I’m interested in Front-end and UI design
-- 🌱 I’m currently learning UI design
+- 🌱 I’m currently learning UI design and design systems.
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 Reach me through kishoretogo@gmail.com
 
